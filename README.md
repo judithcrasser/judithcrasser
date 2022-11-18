@@ -1,9 +1,8 @@
 ### H i
 
-```
-
 I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
+```
 
 TECH STACK
 
