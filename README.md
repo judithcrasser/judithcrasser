@@ -1,8 +1,8 @@
-### Hi, I'm Judith
+### H i ,
 
 ```
 
-A fullstack / frontend web developer from Leipzig, Germany.
+I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 
 TECH STACK
@@ -13,6 +13,6 @@ Adobe InDesign / Photoshop / Illustrator / Premiere
 
 LERNING
 
-NextJS / TypeScript / Vue / Figma and more 😄
+NextJS / TypeScript / Vue / Figma and more
 
 ```
