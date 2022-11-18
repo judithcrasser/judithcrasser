@@ -1,16 +1,38 @@
-### Hi there 👋
+### H i !
 
-<!--
-**judithcrasser/judithcrasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+I'm Judith a full stack web developer from Leipzig, Germany. 
+With a background in communication design and fine arts I'm 
+currently more focused on the frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+### S k i l l s
+
+```
+
+HTML5 / CSS3 / SASS/SCSS / Bootstrap / Tailwind / 
+JavaScript / React / Node.JS / MongoDB / Express.JS
+Adobe InDesign / Photoshop / Illustrator / Premiere
+
+```
+
+### L e a r n  l i s t
+
+```
+
+NextJS / TypeScript / Vue / Figma and more
+
+```
+
+### I n t e r e s t s
+
+```
+
+- exploring and learning how to code music with Sonic Pi, 
+  Supercollider and Tidal Cycles
+- gardening
+- biking and hiking
+
+```
