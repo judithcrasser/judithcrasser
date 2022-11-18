@@ -1,38 +1,18 @@
-### H i !
+### Hi, I'm Judith
 
 ```
 
-I'm Judith a full stack web developer from Leipzig, Germany. 
-With a background in communication design and fine arts I'm 
-currently more focused on the frontend.
+A fullstack / frontend web developer from Leipzig, Germany.
 
-```
 
-### S k i l l s
-
-```
+TECH STACK
 
 HTML5 / CSS3 / SASS/SCSS / Bootstrap / Tailwind / 
 JavaScript / React / Node.JS / MongoDB / Express.JS
 Adobe InDesign / Photoshop / Illustrator / Premiere
 
-```
+LERNING
 
-### L e a r n  l i s t
-
-```
-
-NextJS / TypeScript / Vue / Figma and more
-
-```
-
-### I n t e r e s t s
-
-```
-
-- exploring and learning how to code music with Sonic Pi, 
-  Supercollider and Tidal Cycles
-- gardening
-- biking and hiking
+NextJS / TypeScript / Vue / Figma and more 😄
 
 ```
