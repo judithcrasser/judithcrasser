@@ -7,11 +7,11 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 TECH STACK
 
 HTML5 / CSS3 / SASS/SCSS / Bootstrap / Tailwind / 
-JavaScript / React / Node.JS / MongoDB / Express.JS
+JavaScript / React / Node.js / MongoDB / Express.js
 Adobe InDesign / Photoshop / Illustrator / Premiere
 
 LERNING
 
-NextJS / TypeScript / Vue / Figma and more
+Next.js / TypeScript / Vue / Figma and more
 
 ```
