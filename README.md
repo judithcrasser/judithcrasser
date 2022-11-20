@@ -10,8 +10,8 @@ HTML5 / CSS3 / SASS/SCSS / Bootstrap / Tailwind /
 JavaScript / React / Node.js / MongoDB / Express.js
 Adobe InDesign / Photoshop / Illustrator / Premiere
 
-LERNING
+LEARNING
 
-Next.js / TypeScript / Vue / Figma and more
+Next.js / TypeScript / Vue.js / Figma and more
 
 ```
