@@ -5,27 +5,18 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 ### P r o j e c t s
 
-<a href="https://make.noix.space/" target="_blank" style="text-decoration: none; color:black;">NöIX</a>
 
-App for musicians to connect and find band members\
-Team work
+App for musicians to connect and find band members\ Team work\ 
+=> <a href="https://make.noix.space/" target="_blank" style="text-decoration: none; color:black;">NöIX</a>
 
+Webpage for cultural association based in Leipzig East\ Team work\ 
+=> <a href="https://pracht-ev.net/en" target="_blank">Pracht Webpage</a>
 
-<a href="https://pracht-ev.net/en" target="_blank">Pracht Webpage</a>
+My first portfolio page built with html and css only\
+=> <a href="https://judithcrasser.github.io/portfolio/">Portfolio</a>
 
-Webpage for cultural association based in Leipzig East\
-Team work
-
-
-<a href="https://judithcrasser.github.io/portfolio/">Portfolio</a>
-
-
-My first portfolio page built with html and css only
-
-
-<a href="https://judithcrasser.github.io/to-do-app/">React To-Do App</a>
-
-React App
+React App\
+=> <a href="https://judithcrasser.github.io/to-do-app/">To-Do App</a>\
 
 
 ### S k i l l s
