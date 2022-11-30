@@ -14,11 +14,11 @@ Webpage for cultural association based in Leipzig East\
 Team work\
 => <a href="https://pracht-ev.net/en" target="_blank">Pracht Webpage</a>
 
-My first portfolio page built with html and css only\
+My first portfolio page created only with html and css\
 => <a href="https://judithcrasser.github.io/portfolio/">Portfolio</a>
 
 React App\
-=> <a href="https://judithcrasser.github.io/to-do-app/">To-Do App</a>\
+=> <a href="https://judithcrasser.github.io/to-do-app/">To-Do App</a>
 
 
 ### S k i l l s
