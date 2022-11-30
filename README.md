@@ -5,7 +5,7 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 ### P r o j e c t s
 
-<a href="https://make.noix.space/" target="_blank" style="color:black">NöIX</a>
+<a href="https://make.noix.space/" target="_blank" style="text-decoration: none; color:black">NöIX</a>
 ```
 App for musicians to connect and find band members
 Team work
