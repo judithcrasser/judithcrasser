@@ -7,7 +7,7 @@ Check out my latest projects:
 
 [Pracht Webpage](https://pracht-ev.net/en)
 
-[NöIX]https://make.noix.space/
+[NöIX](https://make.noix.space/)
 
 [Portfolio](https://judithcrasser.github.io/portfolio/)
 
