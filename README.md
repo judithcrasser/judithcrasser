@@ -5,9 +5,9 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 Check out my latest projects:
 
 
-[Pracht Webpage](https://pracht-ev.net/en)
-
 [NöIX](https://make.noix.space/)
+
+[Pracht Webpage](https://pracht-ev.net/en)
 
 [Portfolio](https://judithcrasser.github.io/portfolio/)
 
