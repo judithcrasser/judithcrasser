@@ -8,11 +8,11 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 App for musicians to connect and find band members\
 Team work\
-=> <a href="https://make.noix.space/" target="_blank" style="text-decoration: none; color:black;">NöIX</a>
+=> <a href="https://make.noix.space/">NöIX</a>
 
 Webpage for cultural association based in Leipzig East\
 Team work\
-=> <a href="https://pracht-ev.net/en" target="_blank">Pracht Webpage</a>
+=> <a href="https://pracht-ev.net/en/program">Pracht Webpage</a>
 
 My first portfolio page created only with html and css\
 => <a href="https://judithcrasser.github.io/portfolio/">Portfolio</a>
