@@ -32,6 +32,6 @@ Adobe InDesign / Photoshop / Illustrator / Premiere
 
 LEARNING
 
-Next.js / TypeScript / Vue.js / Figma and more
+Next.js / TypeScript / Vue / Angular / ...
 
 ```
