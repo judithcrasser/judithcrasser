@@ -8,7 +8,8 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 App for musicians to connect and find band members\
 Team work\
-=> <a href="https://make.noix.space/" target="_blank">NöIX</a>
+=> <a href="https://make.noix.space/" target="_blank">NöIX (Live version)</a>\
+=> <a href="https://github.com/noiix" target="_blank">NöIX</a>
 
 Webpage for cultural association based in Leipzig East\
 Team work\
