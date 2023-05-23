@@ -5,6 +5,8 @@ I'm Judith, a fullstack / frontend web developer from Leipzig, Germany.
 
 ### P r o j e c t s
 
+My portfolio page\
+=> <a href="https://judithcrasser.github.io/" target="_blank">Portfolio</a>
 
 App for musicians to connect and find band members\
 Team work\
@@ -14,9 +16,6 @@ Team work\
 Webpage for cultural association based in Leipzig East\
 Team work\
 => <a href="https://pracht-ev.net/en" target="_blank">Pracht Webpage</a>
-
-My first portfolio page created only with html and css\
-=> <a href="https://judithcrasser.github.io/portfolio/" target="_blank">Portfolio</a>
 
 React App\
 => <a href="https://judithcrasser.github.io/to-do-app/" target="_blank">To-Do App</a>
